@@ -1,0 +1,7 @@
+{
+    "name": "empressdreams/skin-analysis",
+    "description": "Skin analysis module.",
+    "require": { "php": "^8.2.0" },
+    "autoload": { "psr-4": { "Modules\\SkinAnalysis\\": "" } },
+    "minimum-stability": "dev"
+}

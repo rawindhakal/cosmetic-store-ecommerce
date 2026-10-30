@@ -1,0 +1,7 @@
+{
+    "name": "Pos",
+    "alias": "pos",
+    "description": "Point of sale for in-store cosmetics and fashion sales.",
+    "priority": 100,
+    "providers": ["Modules\\Pos\\Providers\\PosServiceProvider"]
+}

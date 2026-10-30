@@ -1,0 +1,6 @@
+<svg width="387" height="98" viewBox="0 0 387 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7eb6"/><stop offset="1" stop-color="#e91e8c"/></linearGradient></defs>
+<circle cx="49" cy="49" r="44" fill="url(#g)"/>
+<path transform="translate(23,23) scale(1.04)" fill="#fff" d="M2 38 L8 12 L18 26 L26 6 L34 26 L44 12 L50 38 Z"/>
+<rect x="25" y="63" width="50" height="7" rx="3.5" fill="#fff"/>
+<text x="108" y="64" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#e91e8c">Empress<tspan fill="#ff7eb6" font-weight="400">Dreams</tspan></text></svg>

@@ -1,0 +1,9 @@
+{
+    "name": "GlowPoints",
+    "alias": "glowpoints",
+    "description": "Customer loyalty points (GlowPoints): earn on orders, redeem at checkout.",
+    "priority": 100,
+    "providers": [
+        "Modules\\GlowPoints\\Providers\\GlowPointsServiceProvider"
+    ]
+}

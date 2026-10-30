@@ -1,0 +1,7 @@
+{
+    "name": "BeautyFashion",
+    "alias": "beautyfashion",
+    "description": "Cosmetics, skin-care and fashion product details, size guides and expiry batches.",
+    "priority": 100,
+    "providers": ["Modules\\BeautyFashion\\Providers\\BeautyFashionServiceProvider"]
+}

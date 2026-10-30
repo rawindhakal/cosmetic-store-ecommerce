@@ -1,0 +1,7 @@
+{
+    "name": "empressdreams/glowpoints",
+    "description": "Customer loyalty points module.",
+    "require": { "php": "^8.2.0" },
+    "autoload": { "psr-4": { "Modules\\GlowPoints\\": "" } },
+    "minimum-stability": "dev"
+}

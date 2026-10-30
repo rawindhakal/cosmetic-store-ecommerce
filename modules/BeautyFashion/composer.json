@@ -1,0 +1,7 @@
+{
+    "name": "empressdreams/beauty-fashion",
+    "description": "Beauty & fashion catalogue features.",
+    "require": { "php": "^8.2.0" },
+    "autoload": { "psr-4": { "Modules\\BeautyFashion\\": "" } },
+    "minimum-stability": "dev"
+}

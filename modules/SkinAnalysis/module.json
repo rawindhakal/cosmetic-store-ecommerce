@@ -1,0 +1,7 @@
+{
+    "name": "SkinAnalysis",
+    "alias": "skinanalysis",
+    "description": "In-browser camera skin analysis with tips and product recommendations.",
+    "priority": 100,
+    "providers": ["Modules\\SkinAnalysis\\Providers\\SkinAnalysisServiceProvider"]
+}

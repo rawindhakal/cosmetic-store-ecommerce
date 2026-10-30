@@ -1,0 +1,7 @@
+{
+    "name": "empressdreams/pos",
+    "description": "Point of sale module.",
+    "require": { "php": "^8.2.0" },
+    "autoload": { "psr-4": { "Modules\\Pos\\": "" } },
+    "minimum-stability": "dev"
+}
